@@ -1,7 +1,7 @@
 <img src="https://images-ext-2.discordapp.net/external/4Mc-6tF_pjNbc6WzyZcuKkhcf215XWx-6MNUXx7UZfs/https/raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="yDz7 Icon">
 
 <p align="left"> 
-  👀 Olá, meu nome é Nikolas Fernando. Sou <strong>Desenvolvedor de Back-End</strong>
+  👀 Olá, meu nome é Nikolas. Sou <strong>Desenvolvedor de Back-End</strong>
 </p>
 
 <p align="left">
